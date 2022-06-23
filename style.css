@@ -1,0 +1,11 @@
+header{
+    background: #007765;
+    height: 84px;
+}
+h1 {
+    color: #007765;
+    font-family: roboto;
+}
+.header {
+    background-image: url(Hero.png);
+}
